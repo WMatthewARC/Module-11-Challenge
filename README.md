@@ -1,2 +1,2 @@
-Module 11 Challenge: Web Visualization Dashboard 
+## Module 11 Challenge | Web Visualization Dashboard 
 
